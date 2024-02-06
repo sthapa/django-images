@@ -1,0 +1,5 @@
+[tool.poetry.dependencies]
+Django = "~5.0.1"
+
+[tool.poetry.scripts]
+django = "Django:main"
